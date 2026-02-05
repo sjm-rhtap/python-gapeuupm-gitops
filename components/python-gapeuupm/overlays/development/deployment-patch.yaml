@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-gapeuupm:636f4baaf14c38df44424efcfb388dc0bb572a72@sha256:64fc2a2f3cfad375ca27b79a048f9fda7d07f644c7e6ffccddbc4f31a301c794
+        - image: artifactory-docker-artifactory.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-gapeuupm:38c81669b2eb427696028af9baad26fd75b8e4ab@sha256:c03d9c213bc029cbeb979fc7b302e2f814c2b2b5cb75da7dce1104b74e5d7610
           name: container-image
